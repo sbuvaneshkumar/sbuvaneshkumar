@@ -51,7 +51,7 @@ disableHugoGeneratorInject = false
   homeSubtitle = "Software Engineer | Kubernetes 💖"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  # gitUrl = "https://github.com/sbuvaneshkumar/sbuvaneshkumar.github.io/commit/"
+  gitUrl = "https://github.com/sbuvaneshkumar/sbuvaneshkumar.github.io/commit/"
 
   # Default theme "light" or "dark"
   defaultTheme = "light"
