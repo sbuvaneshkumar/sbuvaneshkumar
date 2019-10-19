@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://buvan.dev/about/</loc>
+    <lastmod>2019-10-19T01:36:39+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buvan.dev/</loc>
+    <lastmod>2019-10-19T01:36:39+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://buvan.dev/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://buvan.dev/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://buvan.dev/posts/2019/10/first-post/</loc>
+    <lastmod>2019-10-19T01:36:39+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buvan.dev/tags/init/</loc>
+    <lastmod>2019-10-19T01:36:39+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buvan.dev/posts/</loc>
+    <lastmod>2019-10-19T01:36:39+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buvan.dev/tags/</loc>
+    <lastmod>2019-10-19T01:36:39+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://buvan.dev/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://buvan.dev/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://buvan.dev/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://buvan.dev/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://buvan.dev/categories/"
+                />
+  </url>
+  
+</urlset>
