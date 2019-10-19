@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://buvan.dev/de/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://buvan.dev/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://buvan.dev/de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://buvan.dev/de/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://buvan.dev/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://buvan.dev/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://buvan.dev/de/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://buvan.dev/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://buvan.dev/de/tags/"
+                />
+  </url>
+  
+</urlset>
